@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\MyProject.Specs\Example\bin\Debug\netstandard2.0\Example.deps.json
+D:\Visual Studio Projects\MyProject.Specs\Example\bin\Debug\netstandard2.0\Example.dll
+D:\Visual Studio Projects\MyProject.Specs\Example\bin\Debug\netstandard2.0\Example.pdb
+D:\Visual Studio Projects\MyProject.Specs\Example\obj\Debug\netstandard2.0\Example.csprojAssemblyReference.cache
+D:\Visual Studio Projects\MyProject.Specs\Example\obj\Debug\netstandard2.0\Example.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\MyProject.Specs\Example\obj\Debug\netstandard2.0\Example.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\MyProject.Specs\Example\obj\Debug\netstandard2.0\Example.AssemblyInfo.cs
+D:\Visual Studio Projects\MyProject.Specs\Example\obj\Debug\netstandard2.0\Example.dll
+D:\Visual Studio Projects\MyProject.Specs\Example\obj\Debug\netstandard2.0\Example.pdb
