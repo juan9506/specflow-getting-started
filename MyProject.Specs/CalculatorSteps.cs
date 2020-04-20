@@ -21,13 +21,31 @@ namespace MyProject.Specs
         {
             calculator.SecondNumber = number;
         }
-        
+
         [When(@"I press add")]
         public void WhenIPressAdd()
         {
             result = calculator.Add();
         }
-        
+
+        [When(@"I press subtract")]
+        public void WhenIPressSubtract()
+        {
+            result = calculator.Subtract();
+        }
+
+        [When(@"I press multiply")]
+        public void WhenIPressMultiply()
+        {
+            result = calculator.Multiply();
+        }
+
+        [When(@"I press divide")]
+        public void WhenIPressDivide()
+        {
+            result = calculator.Divide();
+        }
+
         [Then(@"the result should be (.*) on the screen")]
         public void ThenTheResultShouldBeOnTheScreen(int expectedResult)
         {
